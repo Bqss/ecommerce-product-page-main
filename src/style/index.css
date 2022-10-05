@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    :root{
+        --Orange: 26, 100%, 55% ;
+        --Paleorange: 25, 100%, 94% ;
+        --Verydarkblue: 220, 13%, 13% ;
+        --Darkgrayishblue: 219, 9%, 45% ;
+        --Grayishblue: 220, 14%, 75% ;
+        --Lightgrayishblue: 223, 64%, 98% ;
+        --White: 0, 0%, 100% ;
+        --Black : 0, 0%, 0% ;
+        --Lightbox : 0, 0%, 0% , 75% ;
+    }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
