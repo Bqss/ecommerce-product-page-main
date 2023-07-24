@@ -1,5 +1,5 @@
-# Getting Started with Create React App
+# Frontend Mentor - Ecomerce-product-main-page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Design preview for the Tip calculator app coding challenge](./design/desktop-preview.jpg)
 
 <h3>preview : https://chipper-marshmallow-1c7544.netlify.app/
